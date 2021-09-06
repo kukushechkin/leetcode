@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		ED518A5E26E6C60500C44E5E /* leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED518A6126E6C60500C44E5E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		ED518A6826E6C66200C44E5E /* 1941 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = 1941; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		ED518A5526E6C60500C44E5E = {
 			isa = PBXGroup;
 			children = (
+				ED518A6826E6C66200C44E5E /* 1941 */,
 				ED518A6026E6C60500C44E5E /* leetcode */,
 				ED518A5F26E6C60500C44E5E /* Products */,
 			);
