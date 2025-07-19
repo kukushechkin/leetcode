@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		B11E78362E2BBDD1004A1A76 /* 1480 */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = 1480; sourceTree = "<group>"; };
 		ED518A6826E6C66200C44E5E /* 1941 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = 1941; sourceTree = "<group>"; };
 		ED518A6B26E6C92A00C44E5E /* 873 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = 873; sourceTree = "<group>"; };
 		EDCB5B73271C483D002CD230 /* 1019 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = 1019; sourceTree = "<group>"; };
@@ -16,6 +17,7 @@
 		ED518A5526E6C60500C44E5E = {
 			isa = PBXGroup;
 			children = (
+				B11E78362E2BBDD1004A1A76 /* 1480 */,
 				EDCB5B73271C483D002CD230 /* 1019 */,
 				ED518A6B26E6C92A00C44E5E /* 873 */,
 				ED518A6826E6C66200C44E5E /* 1941 */,
